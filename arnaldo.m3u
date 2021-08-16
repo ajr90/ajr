@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1,- 0 N - Chillout on Radio ON Chillout
+http://0n-chillout.radionetz.de/0n-chillout.mp3
+
+#EXTINF:-1,99.9 FM Belém
+http://hts02.kshost.com.br:8862/live
+
+#EXTINF:-1,Absolute Chillout
+http://edge4.peta.live365.net/b05055_128mp3
+
+#EXTINF:-1,Educadora FM
+https://streaming.educadora.irdeb.ba.gov.br/stream-01
+
+#EXTINF:-1,FIP
+http://icecast.radiofrance.fr/fip-midfi.mp3
+
+#EXTINF:-1,FLUX FM ChillHop – Chill Beats and LoFi HipHop
+http://fluxfm.streamabc.net/flx-chillhop-mp3-320-1595440?sABC=6116os29%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23&=&amsparams=playerid:;skey:1628880681
+
+#EXTINF:-1,FutuRock
+https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5942a3a05fa68cca2efb4264/5d9d019112cbbb45d6a50960/playlist.m3u8?aid=5942a3a05fa68cca2efb4264&pid=53YbOuWPTgNUHPJLY2vBzqnw1scjAfDq&sid=r8ii7vbbM71DJhZFAnBjOfXsYoUq7iYC&uid=poYJNknBUmveuWHtyJIb8RPGeBnfvqh9&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ote=1628959952238&ot=BMsGnBqlOuv4r3qnyWWSng&proto=https&pz=us&cP=128000
+
+#EXTINF:-1,Guajira Radio
+http://01.solumedia.com.ar:8252/stream
+
+#EXTINF:-1,http://servidor38.brlogic.com:8134/live?1629076934747
+http://servidor38.brlogic.com:8134/live?1629076934747
+
+#EXTINF:-1,https://s26.maxcast.com.br:8280/live?id=1629077198488
+https://s26.maxcast.com.br:8280/live?id=1629077198488
+
+#EXTINF:-1,La Mega 97.9 FM
+https://prod-34-127-67-199.wostreaming.net/sbsystems-wskqfmaac-imc1?session-id=b7cde1fc7f18c29b1aa3aba978b21ff2
+
+#EXTINF:-1,Los Monos con Navaja
+http://16963.live.streamtheworld.com/SAM01AAC70_SC
+
+#EXTINF:-1,NoFM-Radio "Todo menos miedo"
+https://s2.voscast.com:8163/stream
+
+#EXTINF:-1,Radio BluesFlac
+http://audio-edge-kef8b.ams.s.radiomast.io/radioblues-flac
+
+#EXTINF:-1,Radio Brasil de Fato
+https://s09.hstbr.net:8238/live?1514038524061
+
+#EXTINF:-1,Radio Caracol Letícia CO
+https://20803.live.streamtheworld.com/CARACOL_RADIOAAC.aac
+
+#EXTINF:-1,RADIO UFC
+http://node-03.zeno.fm/vb4g3p5yd5zuv?rj-ttl=5&rj-tok=AAABc5VtQSwA7lrLCBpJs5dU4Q
+
+#EXTINF:-1,RADIO UFC
+http://200.129.35.230:8081/;?type=http&nocache=2742
+
+#EXTINF:-1,Rádio Universitária FM 88.9
+http://radio.fmu.ufrn.br:8000/live.aac
+
+#EXTINF:-1,SABROSITA Ciudad de México - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México
+https://18123.live.streamtheworld.com/XEPHAMAAC.aac
+
+#EXTINF:-1,UESB FM
+http://200.128.67.125:8001/stream
+
+#EXTINF:-1,Universidade FM
+http://centova.radio.com.pt:8405/;
